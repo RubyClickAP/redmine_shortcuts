@@ -2,11 +2,12 @@ $(document).keydown(function(e) {
     if(!$(':focus').is('input') && !$(':focus').is('select') && !$(':focus').is('textarea')) {
         if(!e.ctrlKey && !e.altKey && !e.shiftKey && !e.metaKey) {
             // C
-            if(e.keyCode == 67) {
+            /*if(e.keyCode == 67) {
                 $(location).attr('href', $('.icon-copy').attr('href'));
                 e.preventDefault();
             // D
-            } else if(e.keyCode == 68) {
+            } else if(e.keyCode == 68) {*/
+            if(e.keyCode == 68) {
                 $('.icon-del').first().trigger('click');
                 e.preventDefault();
             // E
