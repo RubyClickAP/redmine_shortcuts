@@ -1,0 +1,24 @@
+# English strings go here for Rails i18n
+zh:
+  shortcuts_settings_enable_in_issues: Enable issue shortcuts
+  shortcuts_settings_enable_in_editor: Enable editor shortcuts
+  shortcuts_settings_enable_help_link: Enable help link
+  shortcuts_settings_help_link_label: Help link label
+  shortcuts_help_title: Redmine Shortcuts Quick Reference
+  shortcuts_help_issue_index: Issues index
+  shortcuts_help_issue_show: Issue show
+  shortcuts_help_editor: Editor
+  shortcuts_help_new_issue: 新建
+  shortcuts_help_copy_issue: 複製
+  shortcuts_help_delete_issue: 刪除
+  shortcuts_help_edit_issue: 修改
+  shortcuts_help_log_time_issue: 記錄工時
+  shortcuts_help_quote_issue: 報價
+  shortcuts_help_unwatch_issue: 不觀察
+  shortcuts_help_watch_issue: 監看
+  shortcuts_help_strong: 加粗
+  shortcuts_help_italic: 斜體
+  shortcuts_help_underline: 加底線
+  shortcuts_help_deleted: 刪除
+  shortcuts_help_submit: 送出
+  
