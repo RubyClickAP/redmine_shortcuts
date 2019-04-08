@@ -4,10 +4,10 @@ Simple Redmine plugin that provides keyboard shortcuts.
 **[Redmine Plugins Directory](https://www.redmine.org/plugins/redmine_shortcuts)**
 
 On issues index
-* **N** new issue
+* **C** new issue
 
 On issue show
-* **C** copy
+* ~~**C** copy~~
 * **D** delete
 * **E** edit
 * **L** log time
